@@ -1,0 +1,5 @@
+18:21:25.133 [main] FATAL alpha.logone - this is fatal
+18:21:30.691 [main] DEBUG beta.logtwo - i m debugging
+18:21:30.694 [main] INFO  beta.logtwo - object is present 
+18:21:30.694 [main] ERROR beta.logtwo - object is not present 
+18:21:30.694 [main] FATAL beta.logtwo - this is fatal

@@ -1,0 +1,9 @@
+16:55:44.541 [main] ERROR alpha.logone - object is not present 
+16:55:44.543 [main] FATAL alpha.logone - this is fatal
+17:03:56.034 [main] ERROR alpha.logone - object is not present 
+17:03:56.036 [main] FATAL alpha.logone - this is fatal
+17:04:25.672 [main] DEBUG beta.logtwo - i m debugging
+17:04:25.674 [main] INFO  beta.logtwo - object is present 
+17:04:25.674 [main] ERROR beta.logtwo - object is not present 
+17:04:25.674 [main] FATAL beta.logtwo - this is fatal
+18:21:25.131 [main] ERROR alpha.logone - object is not present 
